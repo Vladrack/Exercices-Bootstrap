@@ -1,0 +1,8 @@
+#hoverStyle a:hover {
+   color:white;
+    font-weight: bolder;
+    text-decoration: none;
+}
+#hoverStyle a {
+    color: white;
+}
